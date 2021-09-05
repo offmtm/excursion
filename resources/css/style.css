@@ -39,4 +39,9 @@ p{
 .phone{
     padding-top: 20px;
 }
+footer{
+    text-align: right;
+    color: gray;
+    padding-right: 10px;
+}
 
