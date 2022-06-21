@@ -1,23 +1,9 @@
-Codeacademy Project
-Codeacademy Project
-Codeacademy Project
-Codeacademy Project
-Codeacademy Project
-Codeacademy Project
-Codeacademy Project
-Codeacademy Project
-Codeacademy Project
-Codeacademy Project
-Codeacademy Project
-Codeacademy Project
-Codeacademy Project
-Codeacademy Project
-Codeacademy Project
-Codeacademy Project
-Codeacademy Project
-Codeacademy Project
-Codeacademy Project
-Codeacademy Project
-Codeacademy Project
-Codeacademy Project
-Codeacademy Project
+#################################
+
+
+
+practice project from codeacademy 
+
+
+
+#################################
